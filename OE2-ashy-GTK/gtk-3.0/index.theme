@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OE3-Ashy-GTK
+Comment=OE3-Ashy-GTK
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=OE3-Ashy-GTK
+IconTheme=OE3-Icon Pack
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
